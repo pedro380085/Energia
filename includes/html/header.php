@@ -9,7 +9,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Energia! Uma consulta simples ao consumo brasileiro!</title>
+	<title>Energia! Uma consulta simples ao consumo energético brasileiro!</title>
 	
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -45,8 +45,4 @@
 	
 	<script src="js/default.php" type="text/javascript"></script>
 	
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&region=BR"></script>
-	
-	<link href="favicon.ico" rel="icon" type="image/x-icon" />
-
 </head>
