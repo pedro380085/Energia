@@ -1,0 +1,21 @@
+.print html, body {
+	width: 100%;
+	margin: 0;
+}
+
+.print #header {
+	display: none;
+}
+
+.print #content {
+	padding: 0;
+	top: 0;
+}
+
+.print .pageContent {
+	width: 100%;
+}
+
+.print #wrapper {
+	display: none;
+}

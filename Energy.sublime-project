@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"error_log"
+			],
+			"folder_exclude_patterns":
+			[
+				"PedidoNaRede.*",
+				"cgi*"
+			],
+			"path": "/Users/pedro/Sites/Energy"
+		}
+	]
+}

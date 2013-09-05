@@ -1,0 +1,2125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timetable"
+			],
+			[
+				"las",
+				"lastHour"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"lastD",
+				"lastDate"
+			],
+			[
+				"option",
+				"optionItem"
+			],
+			[
+				"cate",
+				"categoryID"
+			],
+			[
+				"tab",
+				"tableUniqueID"
+			],
+			[
+				"table",
+				"tableDivision"
+			],
+			[
+				"waite",
+				"waiterFilter"
+			],
+			[
+				"pageCO",
+				"pageContentBox"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tar",
+				"targetTableID"
+			],
+			[
+				"newtabl",
+				"newTableNumber"
+			],
+			[
+				"ori",
+				"originalTable"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ta",
+				"tableUniqueID"
+			],
+			[
+				"tabl",
+				"tableUnique"
+			],
+			[
+				"categ",
+				"categoryID"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"field",
+				"fieldValue"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"elem",
+				"elemLineup"
+			],
+			[
+				"stat",
+				"statusID"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cty",
+				"ctype_digit"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"upda",
+				"updateDivision"
+			],
+			[
+				"work",
+				"workAtCompany"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"pers",
+				"personID"
+			],
+			[
+				"tal",
+				"tableID"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"substr",
+				"substr_replace"
+			],
+			[
+				"strs",
+				"strstr"
+			],
+			[
+				"j",
+				"joinedTables"
+			],
+			[
+				"mme",
+				"memberID"
+			],
+			[
+				"an",
+				"anonymous"
+			],
+			[
+				"me",
+				"memberID"
+			],
+			[
+				"member",
+				"member"
+			],
+			[
+				"data",
+				"data-type"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"menu",
+				"menuContent"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"insert",
+				"insert"
+			],
+			[
+				"wor",
+				"workAtCompany"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"isS",
+				"is_string"
+			],
+			[
+				"mem",
+				"memberCompany"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"parcial",
+				"parcialDivision"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"MEMB",
+				"memberID"
+			],
+			[
+				"text",
+				"textFile"
+			],
+			[
+				"tex",
+				"textFile"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"cha",
+				"channelID"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"page",
+				"pageContent"
+			],
+			[
+				"chat",
+				"chatGroup"
+			],
+			[
+				"group",
+				"groupID"
+			],
+			[
+				"grou",
+				"groupID"
+			],
+			[
+				"gr",
+				"groupID"
+			],
+			[
+				"membe",
+				"memberID"
+			],
+			[
+				"p",
+				"personID"
+			],
+			[
+				"utf",
+				"utf8_decode"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"request",
+				"requestID"
+			],
+			[
+				"messae",
+				"messageID"
+			],
+			[
+				"resour",
+				"resourceForQuery"
+			],
+			[
+				"tableUniqu",
+				"tableUniqueID"
+			],
+			[
+				"tableUn",
+				"tableUniqueID"
+			],
+			[
+				"tableUniq",
+				"tableUniqueID"
+			],
+			[
+				"deliver",
+				"deliveryID"
+			],
+			[
+				"meme",
+				"memberID"
+			],
+			[
+				"parent",
+				"parentTitle"
+			],
+			[
+				"conte",
+				"contentDocumentation"
+			],
+			[
+				"t",
+				"token"
+			],
+			[
+				"token",
+				"tokenID"
+			],
+			[
+				"proce",
+				"processedAttributes"
+			],
+			[
+				"get",
+				"getAttributes"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"post",
+				"postInput"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"po",
+				"postWrapper"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"pos",
+				"postAttributes"
+			],
+			[
+				"demo",
+				"demoDocumentation"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"ima",
+				"imageWrapper"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"map",
+				"mapID"
+			],
+			[
+				"call",
+				"callWaiter"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"coma",
+				"companyID"
+			],
+			[
+				"compan",
+				"companyID"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"compa",
+				"companyID"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"company",
+				"companyName"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"carte",
+				"carteContent"
+			],
+			[
+				"locat",
+				"locationData"
+			],
+			[
+				"locatio",
+				"locationContent"
+			],
+			[
+				"location",
+				"locationData"
+			],
+			[
+				"ho",
+				"hours"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"optiona",
+				"optionalValue"
+			],
+			[
+				"rig",
+				"removeImage"
+			],
+			[
+				"we",
+				"weekDays"
+			],
+			[
+				"pageConte",
+				"pageContentItemExtra"
+			],
+			[
+				"pageContent",
+				"pageContentSector"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"len",
+				"length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Web/includes/connection.php",
+			"settings":
+			{
+				"buffer_size": 841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Web/js/modules/ajax.js",
+			"settings":
+			{
+				"buffer_size": 5678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/report.php",
+			"settings":
+			{
+				"buffer_size": 4522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/developer/api/modules/report.php",
+			"settings":
+			{
+				"buffer_size": 1410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/includes/wrap/report.php",
+			"settings":
+			{
+				"buffer_size": 2852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/js/modules/report.js",
+			"settings":
+			{
+				"buffer_size": 1915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/includes/header.php",
+			"settings":
+			{
+				"buffer_size": 741,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Web/developer/api/index.php",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/developer/api/header.php",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/css/default.css",
+			"settings":
+			{
+				"buffer_size": 108924,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/css/printer.css",
+			"settings":
+			{
+				"buffer_size": 1529,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax:t",
+				"Set Syntax: Textile"
+			],
+			[
+				"ob",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if … else"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Project: Close"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fetc",
+				"Fetch: Manage remote files"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tog",
+				"View: Toggle Tabs"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet",
+				"Snippet: SERVER['…']"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 415.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pedro/Sites/Energy/Web/includes/wrap/report.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/header.php",
+		"/Users/pedro/Sites/Energy/Web/info.php",
+		"/Users/pedro/Sites/Energy/Web/ajaxMap.php",
+		"/Users/pedro/Sites/Energy/Web/ajaxCarte.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/modules/person.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/modules/report.php",
+		"/Users/pedro/Sites/Energy/Web/index.php",
+		"/Users/pedro/Sites/Energy/Web/includes/header.php",
+		"/Users/pedro/Sites/Energy/Web/includes/wrap.php",
+		"/Users/pedro/Sites/Energy/Web/js/modules/ajax.js",
+		"/Users/pedro/Sites/Energy/Web/home.php",
+		"/Users/pedro/Sites/Energy/Web/includes/html/wrapper.php",
+		"/Users/pedro/Sites/Energy/Web/js/default.php",
+		"/Users/pedro/Sites/Energy/Web/js/modules/report.js",
+		"/Users/pedro/Sites/Energy/Web/includes/html/bar.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/wrapper.php",
+		"/Users/pedro/Sites/Energy/Web/report.php",
+		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxCarte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajax.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/modules/order.php",
+		"/Users/pedro/Sites/Energy/Web/developer/api/functions/order.php",
+		"/Users/pedro/Sites/Energy/Web/developer/documentation/order.php",
+		"/Users/pedro/Sites/Energy/Web/ajax.php",
+		"/Users/pedro/Sites/Energy/Web/js/modules/notification.js",
+		"/Users/pedro/Sites/Energy/Web/includes/function/notification.php",
+		"/Users/pedro/Sites/Energy/Web/includes/wrap/map.php",
+		"/Users/pedro/Sites/Energy/Web/httpd.conf",
+		"/Users/pedro/Sites/Energy/Web/includes/connection.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/PedidoNaRede.sublime-project",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/wrap.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxMap.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/person.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/report.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/html/bar.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/division.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/division.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/order.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/table.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/wrap/map.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/map.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/table.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/division.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/order.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/es.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/pt.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/en.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/report.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/functions/order.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/function/generic.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/classes/nfephp/schemes/NFSe/ginfes/v02/servico_enviar_lote_rps_envio_v02.xsd",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/receipt.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/function/utils.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/wrap/report.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/function/security.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/report.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/check/security.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/data.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/dataRestaurant.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/map.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/myApp.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/functions/validation.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/person.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/chat.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/notification.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/.htaccess",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/UIView+Components.m",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/company.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/HumanLoginViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede-dev/iOS/PedidoNaRede/HumanLoginViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/applications.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/applications.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/carte.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/table.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/functions/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/opinion.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/chat.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/notification.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/opinion.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/index.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/index.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/header.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/function/format.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/howTo.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/tools.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/function/notification.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/feedback.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/wrap/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/window.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Node/node_modules/appjs/lib/window.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/check/registration.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/pn.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxAccount.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/account.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/connection.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/accounts.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/ajax.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/modules/notification.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/html/header.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/infoContainer.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/receipt.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/header.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Node/node_modules/appjs/lib/utils.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/functions.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/bar.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/check/login.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/css/printer.css",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxApplication.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/location.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/dataMember.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/person.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/documentation/company.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/developer/api/functions/person.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/permissions.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/field.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/constant.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxRegister.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/singleton/core.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/logout.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/manifest.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/js/modules/myApp.js",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/myRestaurant.php",
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/offline.php"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/pedro/Sites/Energy/Web/,-/Users/pedro/Sites/Energy/Web/classes/*",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web/,-/Users/pedro/Sites/PedidoNaRede-dev/Web/classes/*",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web/*,-/Users/pedro/Sites/PedidoNaRede-dev/Web/classes/*",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web,-\"/Users/pedro/Sites/PedidoNaRede-dev/Web/classes\"",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web,-/Users/pedro/Sites/PedidoNaRede-dev/Web/classes",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web",
+			"/Users/pedro/Sites/PedidoNaRede-dev/",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web/",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web/classes/nfephp",
+			"/Users/pedro/Sites/PedidoNaRede-dev/Web/",
+			"/Users/pedro/Sites/PedidoNaRede/Web/",
+			"/Users/pedro/Sites/PedidoNaRede/Web/developer",
+			"/Users/pedro/Sites/PedidoNaRede",
+			"/Users/pedro/Sites/",
+			"/Users/pedro/Sites/PedidoNaRede"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reportListWrap",
+			"item",
+			"waiter",
+			" name=\"dayBegin\" id=\"dayBegin\">",
+			"time",
+			"display",
+			"category",
+			"Sábado",
+			"Sexta",
+			"Quinta",
+			"Quarta",
+			"Segunda",
+			"voar",
+			"Time",
+			"time",
+			"TIME",
+			"time",
+			"Time",
+			"time",
+			"option",
+			"display",
+			"Display",
+			"display",
+			"Display",
+			"display",
+			"Display",
+			"display",
+			"category",
+			"demand",
+			"price",
+			"order",
+			"ORDER",
+			"order",
+			"deman",
+			"dayOfYear",
+			"dateSent",
+			"	",
+			"ab81873_",
+			"/var/www/html/PedidoNaRede/",
+			"html",
+			"PedidoNaRede",
+			"inevent",
+			"/var/www/html/",
+			"/var/www/html/PedidoNaRede",
+			"DocumentRo",
+			"step",
+			"DATE_ATOM",
+			"percentage",
+			"Percentage",
+			"percentage",
+			"per",
+			"percentage",
+			"tableID",
+			"cleanUpOldTablesWithMapID",
+			"orderOptionsItem",
+			"feedback",
+			"os pedidos ",
+			"personID",
+			"Tap",
+			"Register",
+			"Plus",
+			"People",
+			"Options",
+			"Actions",
+			"Logout",
+			"Click",
+			"About",
+			"printIn",
+			"getTablesForTableQuery",
+			"update",
+			"waiterName",
+			"row",
+			"price",
+			"setcookie",
+			"set_cookie",
+			"waiter",
+			"waiterID",
+			"optionWaiter",
+			"waiter",
+			"items",
+			"waiter",
+			"`member`",
+			"member",
+			"argument",
+			"table",
+			"Chat",
+			"cpf",
+			"name",
+			"Employee",
+			"_personName",
+			"_personButton",
+			"Username",
+			"waiter",
+			"_waiter",
+			"price",
+			"lastDay",
+			"DESC",
+			"dateSent",
+			"240",
+			"containerList",
+			"add",
+			"carteCategory",
+			"row",
+			"lineup",
+			"len",
+			"replaceW",
+			"DELETE",
+			"(data != \"true\")",
+			"orderID",
+			"personID",
+			"requestID",
+			"personID",
+			"requestID",
+			"peopleWrap",
+			"getAllPeopleForTableUniqueQuery",
+			"memberID",
+			"name",
+			"order",
+			"getPe",
+			"dateEnded",
+			"dateProcessed",
+			"dateSent",
+			"lastChange",
+			"dateEnd",
+			"dateBegin",
+			"date",
+			"requestID",
+			"tableUniqueID"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"find(\".pageContentItem:visible\").not(\".pageContentItemExtra\").pn(\"equalHeights\")",
+			"printInformation(\"memberCompany\", $result, true, 'object');",
+			".menuContent",
+			"class=\"menuContent\"",
+			".termContent",
+			".reportContent",
+			".registerContent",
+			".permissionContent",
+			".paymentContent",
+			".offlineContent",
+			".myRestaurantContent",
+			".myAppContent",
+			".mapContent",
+			".locationContent",
+			".offlineContent",
+			".hiringContent",
+			".helpContent",
+			".feedbackContent",
+			".dataRestaurantContent",
+			".dataMemberContent",
+			".carteContent",
+			".applicationsContent",
+			".accountContent",
+			"#menuContent",
+			"id=\"menuContent\"",
+			".homeContent",
+			".dataContent",
+			"#termContent",
+			"#reportContent",
+			"#registerContent",
+			"#permissionContent",
+			"#paymentContent",
+			"#offlineContent",
+			"#myRestaurantContent",
+			"#myAppContent",
+			"#indexContent",
+			"#offlineContent",
+			"#hiringContent",
+			"#helpContent",
+			"#feedbackContent",
+			"#dataMemberContent",
+			"#dataRestaurantContent",
+			"#dataContent",
+			"#applicationsContent",
+			"#aboutContent",
+			"#accountContent",
+			"#locationContent",
+			"#mapContent",
+			"#carteContent",
+			"`order`.`id` = $orderID",
+			"var parentID = ($containerList.index() != 0) ? $containerList.siblings().eq($containerList.index() - 1).find(\".pageContentItemSelected\").val() : 0;",
+			"var parentID = ($containerList.index() =! 0) ? $containerList.siblings().eq($containerList.index() - 1).find(\".pageContentItemSelected\").val() : 0;",
+			"changeStatus",
+			"statusID",
+			"getStates",
+			"changeState",
+			"minimumAmount",
+			"ColorThemeController ",
+			"ColorTheme",
+			"[ColorThemeController ",
+			"`order`.`dateSent`",
+			"memberSessions",
+			"",
+			"<br />",
+			"middleOptions",
+			"partialPercentage",
+			"partialDivision",
+			"validateText",
+			"http_status_code",
+			"field(\"removeFiel",
+			"field(\"createFiel",
+			"include_once(\"includes/check/login.php\");",
+			"$core->auth",
+			"validateCompany()",
+			"$tokenID",
+			"getEmployeeToken",
+			"64-Chemical",
+			"`permission`",
+			"\"permission\"",
+			"'permission'",
+			"$core->permission",
+			"memberID",
+			"getCompanyIDForMapID(",
+			"('.pageContentItem:visible').pn(\"equalHeights\");",
+			"32-Cross",
+			"32-Check",
+			"50-check",
+			"- (void)apiController:(APIController *)apiController didFailWithError:(NSError *)error",
+			"		logout();",
+			"includes/html/sequence",
+			"[apiController.method isEqual",
+			"- (void)apiController:(APIController *)apiController didLoadDictionaryFromServer:(NSDictionary *)dictionary {",
+			"toolBoxButton submitButton",
+			"checkPermission",
+			"32-Arrow-Left",
+			"32-Looking-Glass",
+			"32-Calendar-today",
+			"32-Check",
+			"32-Favorite",
+			"32-Unfavorite",
+			"32-Cross",
+			"32-Pencil-_-Edit",
+			"32-Plus",
+			"32-Settings",
+			"title=\"Editar\"",
+			"getAllActiveTableUniqueIDForMapQueryText",
+			"resourceForQuery",
+			"printInformation",
+			"informationCountForEnterpriseID",
+			"informationForEnterpriseID",
+			"informationForEnterpriseIDForUniqueID",
+			"informationForTable",
+			"<?php if (!$core->logado) { ?>\n$&\n<?php } ?>",
+			"$&$&",
+			"$&",
+			"$?",
+			"\\",
+			"(\\1)",
+			"\\1",
+			"(/1)",
+			"?>",
+			"/1",
+			"resourceForQuery",
+			"getCompanyID",
+			"getTableUniqueID",
+			"resourceForQuery",
+			"#pragma mark - Split View Controller Delegate\n\n- (void)splitViewController:(UISplitViewController *)splitController willHideViewController:(UIViewController *)viewController withBarButtonItem:(UIBarButtonItem *)barButtonItem forPopoverController:(UIPopoverController *)popoverController\n{\n    barButtonItem.title = self.title;\n    NSMutableArray *barButtons = [NSMutableArray arrayWithArray:self.navigationItem.leftBarButtonItems];\n    [barButtons insertObject:barButtonItem atIndex:0];\n    [self.navigationItem setLeftBarButtonItems:barButtons animated:YES];\n}\n\n- (void)splitViewController:(UISplitViewController *)splitController willShowViewController:(UIViewController *)viewController invalidatingBarButtonItem:(UIBarButtonItem *)barButtonItem\n{\n    // Called when the view is shown again in the split view, invalidating the button and popover controller.\n    [self.navigationItem setLeftBarButtonItem:nil animated:YES];\n}\n",
+			"- (void)didLoadDictionaryFromServer:(NSDictionary *)dictionary withNamespace:(NSString *)namespace method:(NSString *)method andUserInfo:(NSDictionary *)userInfo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Web/includes/connection.php",
+					"settings":
+					{
+						"buffer_size": 841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Web/js/modules/ajax.js",
+					"settings":
+					{
+						"buffer_size": 5678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Web/report.php",
+					"settings":
+					{
+						"buffer_size": 4522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3421,
+								3421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 762.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Web/developer/api/modules/report.php",
+					"settings":
+					{
+						"buffer_size": 1410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Web/includes/wrap/report.php",
+					"settings":
+					{
+						"buffer_size": 2852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2749,
+								2749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Web/js/modules/report.js",
+					"settings":
+					{
+						"buffer_size": 1915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								871,
+								871
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Web/includes/header.php",
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Web/developer/api/index.php",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Web/developer/api/header.php",
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "Web/css/default.css",
+					"settings":
+					{
+						"buffer_size": 108924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92587,
+								92587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78353.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Web/css/printer.css",
+					"settings":
+					{
+						"buffer_size": 1529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 61.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.737656082652,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wrap/re",
+				"Web/includes/wrap/report.php"
+			],
+			[
+				"heade",
+				"Web/developer/api/header.php"
+			],
+			[
+				"index",
+				"Web/developer/api/index.php"
+			],
+			[
+				"header",
+				"Web/includes/header.php"
+			],
+			[
+				"repor",
+				"Web/js/modules/report.js"
+			],
+			[
+				"repo",
+				"Web/developer/api/modules/report.php"
+			],
+			[
+				"aja",
+				"Web/js/modules/ajax.js"
+			],
+			[
+				"re",
+				"Web/js/modules/report.js"
+			],
+			[
+				"defa",
+				"Web/js/default.php"
+			],
+			[
+				"inde",
+				"Web/index.php"
+			],
+			[
+				"bar",
+				"Web/includes/html/bar.php"
+			],
+			[
+				"wrap",
+				"Web/includes/html/wrapper.php"
+			],
+			[
+				"home",
+				"Web/home.php"
+			],
+			[
+				"person",
+				"Web/developer/api/modules/person.php"
+			],
+			[
+				"con",
+				"Web/includes/connection.php"
+			],
+			[
+				"ajax",
+				"Web/ajaxCarte.php"
+			],
+			[
+				"ajaxc",
+				"Web/ajaxCarte.php"
+			],
+			[
+				"conn",
+				"Web/includes/connection.php"
+			],
+			[
+				"httpd",
+				"Web/httpd.conf"
+			],
+			[
+				"conne",
+				"Web/includes/connection.php"
+			],
+			[
+				"notif",
+				"Web/includes/function/notification.php"
+			],
+			[
+				"wrap/ma",
+				"Web/includes/wrap/map.php"
+			],
+			[
+				"wrap.",
+				"Web/includes/wrap.php"
+			],
+			[
+				"notifi",
+				"Web/includes/function/notification.php"
+			],
+			[
+				"notifcations",
+				"Web/js/modules/notification.js"
+			],
+			[
+				"map.",
+				"Web/js/modules/map.js"
+			],
+			[
+				"que/or",
+				"Web/includes/queries/order.php"
+			],
+			[
+				"que/ta",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"quer/or",
+				"Web/includes/queries/order.php"
+			],
+			[
+				"div",
+				"Web/developer/documentation/division.php"
+			],
+			[
+				"divis",
+				"Web/developer/api/modules/division.php"
+			],
+			[
+				"table",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"ajaxma",
+				"Web/ajaxMap.php"
+			],
+			[
+				"fu/or",
+				"Web/developer/api/functions/order.php"
+			],
+			[
+				"doc/or",
+				"Web/developer/documentation/order.php"
+			],
+			[
+				"order",
+				"Web/developer/documentation/order.php"
+			],
+			[
+				"ajaxm",
+				"Web/ajaxMap.php"
+			],
+			[
+				"divisi",
+				"Web/developer/api/modules/division.php"
+			],
+			[
+				"orde",
+				"Web/developer/documentation/order.php"
+			],
+			[
+				"loca",
+				"iOS/PedidoNaRede/es.lproj/Localizable.strings"
+			],
+			[
+				"fun/or",
+				"Web/developer/api/functions/order.php"
+			],
+			[
+				"mo/re",
+				"Web/developer/api/modules/report.php"
+			],
+			[
+				"gener",
+				"Web/includes/function/generic.php"
+			],
+			[
+				"genr",
+				"Web/classes/nfephp/schemes/NFSe/ginfes/v02/servico_enviar_lote_rps_envio_v02.xsd"
+			],
+			[
+				"qu/ta",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"qu/o",
+				"Web/includes/queries/order.php"
+			],
+			[
+				"utils",
+				"Web/includes/function/utils.php"
+			],
+			[
+				"wrap/map",
+				"Web/includes/wrap/map.php"
+			],
+			[
+				"wrap/orde",
+				"Web/developer/api/modules/order.php"
+			],
+			[
+				"rece",
+				"Web/developer/api/modules/receipt.php"
+			],
+			[
+				"modu/order",
+				"Web/developer/api/modules/order.php"
+			],
+			[
+				"secu",
+				"Web/includes/function/security.php"
+			],
+			[
+				"data",
+				"Web/js/modules/data.js"
+			],
+			[
+				"myap",
+				"Web/myApp.php"
+			],
+			[
+				"valida",
+				"Web/developer/api/functions/validation.php"
+			],
+			[
+				"mo/order",
+				"Web/developer/api/modules/order.php"
+			],
+			[
+				"mo/tabl",
+				"Web/developer/api/modules/table.php"
+			],
+			[
+				"map",
+				"Web/map.php"
+			],
+			[
+				"tabl",
+				"Web/developer/api/modules/table.php"
+			],
+			[
+				"chat",
+				"Web/developer/documentation/chat.php"
+			],
+			[
+				"hta",
+				"Web/.htaccess"
+			],
+			[
+				"human",
+				"iOS/PedidoNaRede/HumanLoginViewController.h"
+			],
+			[
+				"humanlo",
+				"iOS/PedidoNaRede/HumanLoginViewController.m"
+			],
+			[
+				"valid",
+				"Web/developer/api/functions/validation.php"
+			],
+			[
+				"com",
+				"Web/developer/api/modules/company.php"
+			],
+			[
+				"uiview",
+				"iOS/PedidoNaRede/UIView+Components.m"
+			],
+			[
+				"quer/ta",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"report",
+				"Web/includes/wrap/report.php"
+			],
+			[
+				"mo/report",
+				"Web/developer/api/modules/report.php"
+			],
+			[
+				"sec",
+				"Web/includes/function/security.php"
+			],
+			[
+				"util",
+				"Web/includes/function/utils.php"
+			],
+			[
+				"carte",
+				"Web/js/modules/carte.js"
+			],
+			[
+				"ajaxca",
+				"Web/ajaxCarte.php"
+			],
+			[
+				"app",
+				"Web/js/modules/applications.js"
+			],
+			[
+				"appli",
+				"Web/applications.php"
+			],
+			[
+				"appl",
+				"Web/js/modules/applications.js"
+			],
+			[
+				"uti",
+				"Web/includes/function/utils.php"
+			],
+			[
+				"gen",
+				"Web/includes/function/generic.php"
+			],
+			[
+				"q/ta",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"wrap/",
+				"Web/includes/wrap/map.php"
+			],
+			[
+				"wrap/ta",
+				"Web/developer/api/modules/table.php"
+			],
+			[
+				"func/orde",
+				"Web/developer/api/functions/order.php"
+			],
+			[
+				"func/order",
+				"Web/developer/api/functions/order.php"
+			],
+			[
+				"modu/ca",
+				"Web/developer/api/modules/chat.php"
+			],
+			[
+				"quer/",
+				"Web/includes/queries/order.php"
+			],
+			[
+				"quer/ca",
+				"Web/includes/queries/carte.php"
+			],
+			[
+				"mod/ca",
+				"Web/developer/api/modules/carte.php"
+			],
+			[
+				"mo/carte",
+				"Web/js/modules/carte.js"
+			],
+			[
+				"compa",
+				"Web/developer/api/modules/company.php"
+			],
+			[
+				"opi",
+				"Web/developer/api/modules/opinion.php"
+			],
+			[
+				"division",
+				"Web/developer/documentation/division.php"
+			],
+			[
+				"doc/ta",
+				"Web/developer/documentation/table.php"
+			],
+			[
+				"fun/va",
+				"Web/developer/api/functions/validation.php"
+			],
+			[
+				"mo/per",
+				"Web/developer/api/modules/person.php"
+			],
+			[
+				"form",
+				"Web/includes/function/format.php"
+			],
+			[
+				"how",
+				"Web/developer/documentation/howTo.php"
+			],
+			[
+				"func/ca",
+				"Web/developer/api/functions/carte.php"
+			],
+			[
+				"mo/ca",
+				"Web/developer/api/modules/carte.php"
+			],
+			[
+				"map.js",
+				"Web/js/modules/map.js"
+			],
+			[
+				"q/order",
+				"Web/includes/queries/order.php"
+			],
+			[
+				"quetab",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"mo/ta",
+				"Web/developer/api/modules/table.php"
+			],
+			[
+				"func/o",
+				"Web/developer/api/functions/order.php"
+			],
+			[
+				"win",
+				"Web/js/modules/window.js"
+			],
+			[
+				"che/se",
+				"Web/includes/check/security.php"
+			],
+			[
+				"chec/re",
+				"Web/includes/check/registration.php"
+			],
+			[
+				"feed",
+				"Web/feedback.php"
+			],
+			[
+				"che/re",
+				"Web/includes/check/registration.php"
+			],
+			[
+				"noti",
+				"Web/js/modules/notification.js"
+			],
+			[
+				"too",
+				"Web/js/modules/tools.js"
+			],
+			[
+				"pn.js",
+				"Web/js/modules/pn.js"
+			],
+			[
+				"tool",
+				"Web/js/modules/tools.js"
+			],
+			[
+				"pn.j",
+				"Web/js/modules/pn.js"
+			],
+			[
+				"wind",
+				"Web/js/modules/window.js"
+			],
+			[
+				"mod/table",
+				"Web/developer/api/modules/table.php"
+			],
+			[
+				"notifica",
+				"Web/js/modules/notification.js"
+			],
+			[
+				"tools",
+				"Web/js/modules/tools.js"
+			],
+			[
+				"acco",
+				"Web/account.php"
+			],
+			[
+				"ajaxa",
+				"Web/ajaxAccount.php"
+			],
+			[
+				"que/tabl",
+				"Web/includes/queries/table.php"
+			],
+			[
+				"fun/ca",
+				"Web/developer/api/functions/carte.php"
+			],
+			[
+				"m/carte",
+				"Web/developer/api/modules/carte.php"
+			],
+			[
+				"no",
+				"Web/developer/api/modules/notification.php"
+			],
+			[
+				"que/n",
+				"Web/includes/queries/notification.php"
+			],
+			[
+				"to",
+				"Web/js/modules/tools.js"
+			],
+			[
+				"js/modu/",
+				"Web/js/modules/infoContainer.js"
+			],
+			[
+				"not",
+				"Web/js/modules/notification.js"
+			],
+			[
+				"hea",
+				"Web/includes/header.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}

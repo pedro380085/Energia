@@ -1,0 +1,122 @@
+@page{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body, html {
+	background-color: white;
+}
+
+table, tr, td {
+	page-break-inside: avoid;
+	page-break-after: always;
+}
+
+thead, tfoot {
+	display: table-header-group;
+}
+
+#header {
+	display: none;
+}
+
+#content {
+	top: 0px !important;
+}
+
+#wrapper {
+	display: none;
+}
+
+.pageContent .titleContent,
+.pageContent .menuContent {
+	display: none;
+}
+
+.pageContent .boardContent {
+	border-radius: 0;
+	border: none;
+}
+
+/* @group Report */
+
+.reportContent .reportBox,
+.reportContent .reportOptions {
+	display: none;
+}
+
+/* @end */
+
+/* @group Print */
+
+.printContent {
+	font-size: 120%;
+	width: 420px;
+	background-color: white;
+	font-family: "Consolas";
+}
+
+.bigPrint {
+	font-size: 150%;
+}
+
+.printContent p {
+	margin: 0;
+}
+
+.printContent .top, .printContent .bottom {
+	padding: 6px;
+	text-align: center;
+}
+
+.printContent .date {
+	/*padding: 10px 0;*/
+	font-style: italic;
+}
+
+.printContent .table {
+	padding: 15px 0 10px 0;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.printContent .waiter {
+	padding: 0 0 5px 0;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+.printContent .line {
+	padding: 4px 6px;
+	position: relative;
+	overflow: hidden;
+}
+
+.printContent .title {
+	float: left;
+	width: 70%;
+}
+
+.printContent .price {
+	float: left;
+	width: 29%;
+	text-align: right;
+}
+
+.printContent .check {
+	border-top: 1px solid black;
+	padding: 6px;
+	text-align: right;
+}
+
+.printContent .cpf {
+	padding: 10px 0;
+}
+
+.printContent .disclaimer {
+	padding: 10px 0;	
+}
+
+/* @end */
