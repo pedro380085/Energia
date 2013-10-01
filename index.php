@@ -17,7 +17,7 @@
 						<img src="images/512-logo.png" alt="Bike">
 					</div>
 				</div>
-			</div>		
+			</div>
 		</div>
     </div>
 	

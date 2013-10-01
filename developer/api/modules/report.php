@@ -13,12 +13,12 @@
 				"SELECT
 					`timetable`.`id`,
 					COUNT(`timetable`.`id`) AS `entries`,
-					DATE_FORMAT(CONVERT_TZ(`timetable`.`date`, '+00:00','-03:00'), '%m-%Y'),
-					AVG(`timetable`.`demand`) AS `demand`,
-					AVG(`timetable`.`price`) AS `price`,
-					AVG(`timetable`.`wind`) AS `wind`,
-					AVG(`timetable`.`balance`) AS `balance`,
-					AVG(`timetable`.`hoep`) AS `hoep`
+					DATE_FORMAT(`timetable`.`date`, '%m-%Y'),
+					ROUND(AVG(`timetable`.`demand`), 2) AS `demand`,
+					ROUND(AVG(`timetable`.`price`), 2) AS `price`,
+					ROUND(AVG(`timetable`.`wind`), 2) AS `wind`,
+					ROUND(AVG(`timetable`.`balance`), 2) AS `balance`,
+					ROUND(AVG(`timetable`.`hoep`), 2) AS `hoep`
 				FROM
 					`timetable`
 				WHERE 1
