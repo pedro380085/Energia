@@ -14,11 +14,11 @@
 					`timetable`.`id`,
 					COUNT(`timetable`.`id`) AS `entries`,
 					DATE_FORMAT(`timetable`.`date`, '%m-%Y'),
-					ROUND(AVG(`timetable`.`demand`), 2) AS `demand`,
-					ROUND(AVG(`timetable`.`price`), 2) AS `price`,
-					ROUND(AVG(`timetable`.`wind`), 2) AS `wind`,
-					ROUND(AVG(`timetable`.`balance`), 2) AS `balance`,
-					ROUND(AVG(`timetable`.`hoep`), 2) AS `hoep`
+					ROUND(AVG(`timetable`.`demand`), 3) AS `demand`,
+					ROUND(AVG(`timetable`.`price`), 3) AS `price`,
+					ROUND(AVG(`timetable`.`wind`), 3) AS `wind`,
+					ROUND(AVG(`timetable`.`balance`), 3) AS `balance`,
+					ROUND(AVG(`timetable`.`hoep`), 3) AS `hoep`
 				FROM
 					`timetable`
 				WHERE 1

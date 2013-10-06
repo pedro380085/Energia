@@ -520,14 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "includes/connection.php",
-			"settings":
-			{
-				"buffer_size": 669,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "developer/index.php",
 			"settings":
 			{
@@ -552,18 +544,10 @@
 			}
 		},
 		{
-			"file": "js/modules/report.js",
+			"file": "report.php",
 			"settings":
 			{
-				"buffer_size": 2166,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 831,
+				"buffer_size": 6107,
 				"line_ending": "Unix"
 			}
 		},
@@ -768,15 +752,17 @@
 	},
 	"file_history":
 	[
-		"/Users/pedro/Sites/Energy/report.php",
+		"/Users/pedro/Sites/Energy/js/modules/report.js",
 		"/Users/pedro/Sites/Energy/developer/api/modules/report.php",
+		"/Users/pedro/Sites/Energy/includes/connection.php",
+		"/Users/pedro/Sites/Energy/includes/wrap/report.php",
+		"/Users/pedro/Sites/Energy/index.php",
+		"/Users/pedro/Sites/Energy/report.php",
 		"/Users/pedro/Sites/Energy/includes/html/header.php",
 		"/Users/pedro/Sites/Energy/developer/documentation/report.php",
-		"/Users/pedro/Sites/Energy/includes/wrap/report.php",
 		"/Users/pedro/Sites/Energy/ajax.php",
 		"/Users/pedro/Sites/Energy/README.md",
 		"/Users/pedro/Sites/Energy/developer/api/index.php",
-		"/Users/pedro/Sites/Energy/index.php",
 		"/Users/pedro/Sites/Energy/Web/css/printer.css",
 		"/Users/pedro/Sites/Energy/Web/css/default.css",
 		"/Users/pedro/Sites/Energy/Web/includes/connection.php",
@@ -893,9 +879,7 @@
 		"/Users/pedro/Sites/PedidoNaRede-dev/Web/css/printer.css",
 		"/Users/pedro/Sites/PedidoNaRede-dev/Web/carte.php",
 		"/Users/pedro/Sites/PedidoNaRede-dev/Web/ajaxApplication.php",
-		"/Users/pedro/Sites/PedidoNaRede-dev/Web/location.php",
-		"/Users/pedro/Sites/PedidoNaRede-dev/Web/dataMember.php",
-		"/Users/pedro/Sites/PedidoNaRede-dev/Web/includes/queries/person.php"
+		"/Users/pedro/Sites/PedidoNaRede-dev/Web/location.php"
 	],
 	"find":
 	{
@@ -1202,38 +1186,11 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "includes/connection.php",
-					"settings":
-					{
-						"buffer_size": 669,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								540,
-								540
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "developer/index.php",
 					"settings":
 					{
@@ -1260,7 +1217,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "includes/header.php",
 					"settings":
 					{
@@ -1271,8 +1228,8 @@
 						"selection":
 						[
 							[
-								220,
-								220
+								439,
+								399
 							]
 						],
 						"settings":
@@ -1286,7 +1243,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "js/modules/ajax.js",
 					"settings":
 					{
@@ -1313,46 +1270,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "js/modules/report.js",
+					"buffer": 3,
+					"file": "report.php",
 					"settings":
 					{
-						"buffer_size": 2166,
+						"buffer_size": 6107,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								321,
-								321
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 831,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								703,
-								661
+								4897,
+								4897
 							]
 						],
 						"settings":
@@ -1361,7 +1291,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1433.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1373,7 +1303,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 6,
+					"buffer": 4,
 					"file": "css/default.css",
 					"settings":
 					{
@@ -1394,7 +1324,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 48721.0,
+						"translation.y": 49321.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1455,6 +1385,26 @@
 		"selected_items":
 		[
 			[
+				"repor",
+				"report.php"
+			],
+			[
+				"header",
+				"includes/header.php"
+			],
+			[
+				"conn",
+				"includes/connection.php"
+			],
+			[
+				"mo/repo",
+				"developer/api/modules/report.php"
+			],
+			[
+				"wrap/re",
+				"includes/wrap/report.php"
+			],
+			[
 				"ind",
 				"index.php"
 			],
@@ -1465,10 +1415,6 @@
 			[
 				"repo",
 				"js/modules/report.js"
-			],
-			[
-				"repor",
-				"report.php"
 			],
 			[
 				"con",
@@ -1491,10 +1437,6 @@
 				"includes/header.php"
 			],
 			[
-				"header",
-				"includes/html/header.php"
-			],
-			[
 				"inde",
 				"developer/index.php"
 			],
@@ -1505,10 +1447,6 @@
 			[
 				"defa",
 				"css/default.css"
-			],
-			[
-				"wrap/re",
-				"Web/includes/wrap/report.php"
 			],
 			[
 				"bar",
@@ -1533,10 +1471,6 @@
 			[
 				"ajaxc",
 				"Web/ajaxCarte.php"
-			],
-			[
-				"conn",
-				"Web/includes/connection.php"
 			],
 			[
 				"httpd",
@@ -1961,10 +1895,6 @@
 			[
 				"que/n",
 				"Web/includes/queries/notification.php"
-			],
-			[
-				"to",
-				"Web/js/modules/tools.js"
 			]
 		],
 		"width": 0.0
